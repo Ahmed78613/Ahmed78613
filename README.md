@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ahmed
 - 👀 I’m interested in Web Development, Gaming & Football
 - 🌱 I’m currently learning CSS, HTML, Javascript & React
-- :mortar_board: 
-- 💞️ I’m looking for a entry level role as a front-end web developer
+- :mortar_board:  I'm a recent University Graduate looking for a entry level role as a front-end web developer
 - 📫 How to reach me? On Linkedin at www.linkedin.com/in/ahmed-muhammed-
