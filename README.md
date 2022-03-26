@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ahmed
 - 👀 I’m interested in Web Development, Gaming & Football
-- 🌱 I’m currently learning CSS, HTML, Javascript & React
+- 🌱 Technical skills include CSS, HTML, Javascript & React
+- :books: Learning React
 - :mortar_board:  BSc Computing for Business Graduate looking for a graduate/entry level role as a front-end developer
 - 📫 Reach me on Linkedin at www.linkedin.com/in/ahmed-muhammed-
