@@ -1,5 +1,5 @@
 - 👋 Hey there! I'm Ahmed
-- 👀 I’m interested in Front-End Development, Gaming & Football
-- 🌱 Technical skills include CSS, HTML, Javascript & React
-- :mortar_board:  BSc Computing for Business Graduate looking for a graduate/junior level role as a front-end developer
+- 👀 I’m interested in Programming, Reading, Cycling, Gaming & Football
+- 🌱 Technical skills include React, Javascript, CSS/SASS, HTML 
+- :mortar_board:  BSc Computing for Business Graduate looking for a graduate/junior level role as a Frontend Developer
 - 📫 Reach me on Linkedin at www.linkedin.com/in/ahmed-muhammed-
