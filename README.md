@@ -44,7 +44,6 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![SASS](https://img.shields.io/badge/SASS%20-%23F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=black)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Cypress](https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?style=for-the-badge&logo=cypress&logoColor=black)
 
 <br>
@@ -53,6 +52,7 @@
 
    ![Node](https://img.shields.io/badge/node.js%20-%23F7DF1E.svg?style=for-the-badge&logo=node.js&logoColor=black)
    ![Express](https://img.shields.io/badge/Express%20-%23F7DF1E.svg?style=for-the-badge&logo=express&logoColor=black)
+   ![Jest](https://img.shields.io/badge/Jest%20-%23F7DF1E.svg?style=for-the-badge&logo=jest&logoColor=black)
 
 <br>
 
