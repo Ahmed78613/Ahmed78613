@@ -18,7 +18,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development 
-- Personal website [link](https://ahmed78613.github.io/AhmedMuhammed/)
+- My Portfolio(https://ahmed78613.github.io/AhmedMuhammed/)
 - 👀 I’m interested in Programming, Reading, Cycling, Gaming & Football
 - 📫 I’m currently open for an Intern or a new job opportunity. Reach me on Linkedin at www.linkedin.com/in/ahmed-muhammed-
 
