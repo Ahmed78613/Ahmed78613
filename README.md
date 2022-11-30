@@ -19,7 +19,6 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development 
 - Personal website [link](https://ahmed78613.github.io/AhmedMuhammed/)
--  this is [my resume](https://read.cv/0xabdulkhalid)
 - 👀 I’m interested in Programming, Reading, Cycling, Gaming & Football
 - 📫 I’m currently open for an Intern or a new job opportunity. Reach me on Linkedin at www.linkedin.com/in/ahmed-muhammed-
 
