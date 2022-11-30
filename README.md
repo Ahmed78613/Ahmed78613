@@ -110,7 +110,7 @@
 
 <li>
 <a href="mailto:ahmedmuhammed78613@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:%20%20Ahmed-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white%22%20t=mail%20style=%22margin-bottom:%205px;" />
+<img src="https://img.shields.io/badge/gmail:%20%20Ahmed-%2300acee.svg?color=red&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
 	
