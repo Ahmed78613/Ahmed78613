@@ -102,7 +102,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/ahmed-muhammed-" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:%20%20Ahmed-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -110,7 +110,7 @@
 
 <li>
 <a href="mailto:ahmedmuhammed78613@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:%20%20Ahmed-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white%22%20t=mail%20style=%22margin-bottom:%205px;" />
 </a>
 </li>
 	
