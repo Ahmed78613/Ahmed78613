@@ -43,7 +43,7 @@
    ![React](https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![SASS](https://img.shields.io/badge/scss%20-%23F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=black)
+   ![SASS](https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?style=for-the-badge&logo=cypress&logoColor=black)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Cypress](https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?style=for-the-badge&logo=cypress&logoColor=black)
 
