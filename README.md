@@ -61,7 +61,9 @@
 - **Currently Learning**:
 
     ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![Material UI](https://img.shields.io/badge/Material%20UI-e5e5e5?style=for-the-badge&logo=mui&logoColor=blue)
+	
 	
 - **Resources Used**:
 
