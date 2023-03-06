@@ -18,8 +18,8 @@
 
 - A passionate self-taught Web Developer
 - Currently learning TypeScript & Tailwind 
-- 👀 I’m interested in Programming, Reading, Cycling, Gaming & Football
-- 📫 I’m currently open to job opportunities. Reach me on [Linkedin](www.linkedin.com/in/ahmed-muhammed-)
+- I’m interested in Programming, Reading, Cycling, Gaming & Football
+- Reach me on [Linkedin](www.linkedin.com/in/ahmed-muhammed-)
 - My [Portfolio](https://ahmed78613.github.io/AhmedMuhammed/)
 
 <br><br>
