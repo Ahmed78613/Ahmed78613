@@ -17,7 +17,7 @@
 <br>
 
 - A passionate self-taught Full Stack Developer
-- Currently learning Python, TypeScript & Tailwind
+- Currently learning TypeScript & Tailwind
 - Interested in Programming, Reading, Cycling, Gaming & Football
 - Reach me on [LinkedIn](www.linkedin.com/in/ahmed-muhammed-)
 - Check out my [Portfolio](https://ahmed78613.github.io/AhmedMuhammed/)
