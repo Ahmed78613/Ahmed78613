@@ -16,11 +16,11 @@
 
 <br>
 
-- A passionate self-taught Web Developer
-- Currently learning TypeScript & Tailwind 
-- I’m interested in Programming, Reading, Cycling, Gaming & Football
-- Reach me on [Linkedin](www.linkedin.com/in/ahmed-muhammed-)
-- My [Portfolio](https://ahmed78613.github.io/AhmedMuhammed/)
+- A passionate self-taught Full Stack Developer
+- Currently learning Python, TypeScript & Tailwind
+- Interested in Programming, Reading, Cycling, Gaming & Football
+- Reach me on [LinkedIn](www.linkedin.com/in/ahmed-muhammed-)
+- Check out my [Portfolio](https://ahmed78613.github.io/AhmedMuhammed/)
 
 <br><br>
 
