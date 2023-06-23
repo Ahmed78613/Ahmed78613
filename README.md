@@ -34,7 +34,7 @@
 - **Languages**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
   
  
     
