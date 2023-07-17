@@ -61,9 +61,10 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - **Currently Learning/Developing**:
-
-    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+	
+    ![Spanish](https://img.shields.io/badge/spanish-%23E51A4C.svg?style=for-the-badge)
+    ![French](https://img.shields.io/badge/french-%230078D7.svg?style=for-the-badge)
+    ![Arabic](https://img.shields.io/badge/arabic-%23005A9C.svg?style=for-the-badge)
 	
 	
 - **Resources Used**:
