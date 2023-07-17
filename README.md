@@ -61,7 +61,9 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - **Currently Learning/Developing**:
-	
+- 
+    ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Terraform](https://img.shields.io/badge/Terraform%20-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
     ![Spanish](https://img.shields.io/badge/spanish-%23FF8C00.svg?style=for-the-badge&logoColor=white)
     ![French](https://img.shields.io/badge/french-%230091EA.svg?style=for-the-badge&logoColor=white)
     ![Arabic](https://img.shields.io/badge/arabic-%2300C851.svg?style=for-the-badge&logoColor=white)
