@@ -62,9 +62,9 @@
 
 - **Currently Learning/Developing**:
 	
-    ![Spanish](https://img.shields.io/badge/spanish-%23E51A4C.svg?style=for-the-badge)
-    ![French](https://img.shields.io/badge/french-%230078D7.svg?style=for-the-badge)
-    ![Arabic](https://img.shields.io/badge/arabic-%23005A9C.svg?style=for-the-badge)
+    ![Spanish](https://img.shields.io/badge/spanish-%23FF8C00.svg?style=for-the-badge&logoColor=white)
+    ![French](https://img.shields.io/badge/french-%230091EA.svg?style=for-the-badge&logoColor=white)
+    ![Arabic](https://img.shields.io/badge/arabic-%2300C851.svg?style=for-the-badge&logoColor=white)
 	
 	
 - **Resources Used**:
